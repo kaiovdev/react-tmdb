@@ -14,6 +14,7 @@ Aplicação web desenvolvida em **React** que consome a API do TMDB (The Movie D
 
 - React
 - React Router DOM
+- React Toastify
 - Axios
 - CSS modules
 
